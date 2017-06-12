@@ -1,0 +1,10 @@
+{
+	"token": "",
+    "owner_permission": "",
+    "admin_role" : "Community Managers",
+    "moderator_role" : "Chat Mods",
+    "default_game": " with chat mods",
+    "mute_role" : "Muted",
+    "default_mute_msg": "{} is muted for unwanted content (FokaBot protection)",
+    "default_unmute_msg": "{} is unmuted."
+}
